@@ -1,1 +1,40 @@
 /* You can add global styles to this file, and also import other style files */
+
+.services{
+    border: 3px solid black;
+    text-align: center;
+    width: 45%;
+    display: inline-block;
+    border-radius: 15px;
+    background: wheat;
+    margin: 10px;
+    vertical-align: top;
+    /* padding: 20px; */
+
+}
+h1{
+    background: rgb(245, 155, 155);
+    border: 3px solid black;
+    border-radius: 12px;
+    text-align: center;
+
+}
+h2{
+    background: rgb(54, 143, 165);
+    border: 3px solid black;
+    border-radius: 12px;
+    /* margin: 0; */
+}
+button{
+    color: rgb(58, 32, 15);
+    background: rgb(226, 90, 197);
+    border:2px solid slateblue;
+    
+    padding: 10px;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: white;
+}
+
